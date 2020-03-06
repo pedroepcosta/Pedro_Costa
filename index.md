@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Bem Vind@!
 
-You can use the [editor on GitHub](https://github.com/pedroepcosta/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Pedro Eustáquio é aluno de ADS - Análise e Desenvolvimento de Sistemas na FATEC - Franca!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Motivação
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Despertando curiosidade sobre tecnologia...
 
 ```markdown
 Syntax highlighted code block
